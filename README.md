@@ -59,3 +59,10 @@ print("Hello World")
 |linea  |linea  |linea  |
 
 ![visual studio code](https://imgs.search.brave.com/KfYWoj3g6heWRKKDZapmIs3dC4JvLPRlYR9QJ_obxSw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy92aXN1YWwtc3R1/ZGlvLWNvZGUtMS0x/LnN2Zw "vscode logo")
+
+
+<!--GITHUB Markdown-->
+* [x] Task 1
+* [] Task 2
+* [] Task 3
+* [x] Task 4
