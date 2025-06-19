@@ -60,7 +60,7 @@ print("Hello World")
 
 ![visual studio code](https://imgs.search.brave.com/KfYWoj3g6heWRKKDZapmIs3dC4JvLPRlYR9QJ_obxSw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy92aXN1YWwtc3R1/ZGlvLWNvZGUtMS0x/LnN2Zw "vscode logo")
 
-######To do
+###### To do
 <!--GITHUB Markdown-->
 * [x] Task 1
 * [ ] Task 2
@@ -68,9 +68,11 @@ print("Hello World")
 * [x] Task 4
 
 
-####### Menciones y Emojis
+###### Menciones y Emojis
 <!--mencionar @nombre.usuario-->
 
 <!--emojis-->
+###### Emojis
+
 :stuck_out_tongue_winking_eye:
 :+1:
